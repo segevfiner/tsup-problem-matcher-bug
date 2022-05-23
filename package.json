@@ -1,0 +1,16 @@
+{
+  "name": "problem-matcher-bug",
+  "version": "0.1.0",
+  "description": "Problem matcher bug reproduction",
+  "scripts": {
+    "build": "tsup",
+    "watch": "tsup --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Segev Finer <segev208@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^16.11.36",
+    "tsup": "^5.12.8"
+  }
+}
